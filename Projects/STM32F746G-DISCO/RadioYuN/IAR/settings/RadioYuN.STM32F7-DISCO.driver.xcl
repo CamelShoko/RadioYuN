@@ -1,0 +1,27 @@
+ -B 
+
+"--endian=little" 
+
+"--cpu=Cortex-M7" 
+
+"--fpu=VFPv5_SP" 
+
+"-p" 
+
+"D:\Program Files\IAR Systems\Embedded Workbench 7.2\arm\CONFIG\debugger\ST\STM32F746IG.ddf" 
+
+"--semihosting=none" 
+
+"--device=STM32F746IG" 
+
+"--drv_interface=SWD" 
+
+"--stlink_reset_strategy=0,1" 
+
+"--drv_swo_clock_setup=0,1,500000" 
+
+"--drv_catch_exceptions=0x000" 
+
+
+
+

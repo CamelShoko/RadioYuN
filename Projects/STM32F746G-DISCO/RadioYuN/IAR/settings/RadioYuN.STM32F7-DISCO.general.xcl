@@ -1,0 +1,15 @@
+"D:\Program Files\IAR Systems\Embedded Workbench 7.2\arm\bin\armproc.dll" 
+
+"D:\Program Files\IAR Systems\Embedded Workbench 7.2\arm\bin\armstlink2.dll" 
+
+"F:\PATH_EN\Code\STM32F746G-RadioYuN\Projects\STM32F746G-DISCO\RadioYuN\IAR\STM32F7-DISCO\Exe\STM32F746G-RadioYuN.out" 
+
+--plugin "D:\Program Files\IAR Systems\Embedded Workbench 7.2\arm\bin\armbat.dll" 
+
+--device_macro "D:\Program Files\IAR Systems\Embedded Workbench 7.2\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader "F:\PATH_EN\Code\STM32F746G-RadioYuN\Projects\STM32F746G-DISCO\RadioYuN\IAR\flashloader\RadioYuN.board" 
+
+
+
+
